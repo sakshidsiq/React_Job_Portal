@@ -1,6 +1,4 @@
 
-```
-
 
 **React Job Portal 🚀**
 A modern job portal built with React, featuring dynamic job search, filterable listings, and intuitive navigation. Ideal as a learning project or showcase app.
@@ -38,17 +36,19 @@ Performance	Lazy-loading, loading overlays, pagination
 <img width="1748" height="956" alt="Screenshot 2025-07-22 002253" src="https://github.com/user-attachments/assets/072524f1-e6c2-47e0-9d6b-6ac1b0a01fbb" />
 
 
+```
+
 **⚙️ Setup Instructions**
 **Clone the repo:**
-bash
-Copy
-Edit
 git clone https://github.com/sakshidsiq/React_Job_Portal.git
 cd React_Job_Portal
 Install dependencies (frontend & server):
 npm install
 npm run dev
-🧩 How It Works
+
+```
+
+**🧩 How It Works**
 Frontend searches for jobs via /jobs?description=...&location=... (proxied through Express backend).
 
 Results populate a list view with company logos (lazy-loaded).
