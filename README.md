@@ -1,3 +1,7 @@
+
+```
+
+
 **React Job Portal 🚀**
 A modern job portal built with React, featuring dynamic job search, filterable listings, and intuitive navigation. Ideal as a learning project or showcase app.
 
@@ -63,4 +67,3 @@ Open an issue ✅
 Submit a PR 🔧
 
 Enhance UI or add new features ✨
-```
